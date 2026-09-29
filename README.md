@@ -3,6 +3,10 @@
 Code for REVO. The implementation is built on
 [verl](https://github.com/volcengine/verl) (Apache-2.0), vendored under `verl/`.
 
+## Paper
+
+The preprint is available at [`paper/REVO_preprint.pdf`](paper/REVO_preprint.pdf).
+
 ## Setup
 
 Python 3.10, CUDA 12, 4 GPUs (tested on 80 GB A100s).
